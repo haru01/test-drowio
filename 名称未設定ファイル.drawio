@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-22T04:45:25.316Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="BUshKxK5Ht3VvbQTS8TJ" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-22T04:47:06.650Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Pt_94OTexPW3Nh1CSLfF" version="24.0.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="800" dy="932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -118,7 +118,7 @@
             <mxPoint x="-38" y="40" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JtkHECEazYbc6qoNC6tp-0" value="新たにテキスト追加" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="JtkHECEazYbc6qoNC6tp-0" value="新たにテキスト追加&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;さらにXさんと。&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130" y="650" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
